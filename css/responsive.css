@@ -1,0 +1,386 @@
+/* Normal desktop(xl) :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+	.welcome-content h5 {
+		margin-bottom: 30px;
+	}
+	.welcome-content span p {
+		margin-bottom: 10px;
+	}
+}
+
+
+/* Normal desktop(lg) :992px. */
+@media (min-width: 992px) and (max-width: 1199.99px) {
+
+	.section-title h2 {
+		font-size: 2.9rem;
+	}
+	.progress-content h3 {
+		font-size: 1.9rem;
+		margin-bottom: 0;
+	}
+	.appointment-image img {
+		width: 100%;
+	}
+	.welcome-content h5 {
+		margin-bottom: 30px;
+	}
+	.testimonial-content {
+		margin-top: 115px;
+	}
+	.welcome-content span p {
+		margin-bottom: 10px;
+	}
+	.welcome-content h5 {
+		line-height: 1.6;
+	}
+	.appointment-image img {
+		position: relative;
+		top: -67px;
+	}
+	.brand-wrapper {
+		padding: 0;
+	}
+	.contact-font h5 {
+		font-size: 18px;
+	}
+}
+
+
+/* Tablet desktop(md) :768px. */
+@media (min-width: 768px) and (max-width: 991.99px) {
+	.menu-area nav ul li {
+		margin-left: 15px;
+	}
+	.white-bg {
+		padding: 15px 0;
+	}
+	.slider-content h2{
+		font-size:2.9rem;
+	}
+	.slider-content p {
+		font-size: 17px;
+	}
+	.section-title h2 {
+		font-size: 2.429rem;
+	}
+	.welcome-content h5 {
+		margin-bottom: 15px;
+	}
+	.welcome-content span p {
+		margin-bottom: 5px;
+		padding-right:0;
+	}
+	.welcome-second-img img{
+		margin-bottom:30px;
+	}
+	.footer-social-icon {
+		margin-top: 40px;
+	}
+	.copyright-bg {
+		padding: 20px 0;
+	}
+	.appointment-image img {
+		width: 100%;
+	}
+	.hello-content {
+		margin-left: 0;
+	}
+	.icon-content h5 {
+		line-height: 1.5;
+	}
+	.welcome-content h5 {
+		line-height: 1.5;
+	}
+	.test-icon {
+	top: -19px;
+	}
+	.testimonial-content {
+	margin-top: 115px;
+	}
+	.customize-line-height a h3 {
+		font-size: 24px;
+	}
+	.customize-line-height {
+		padding: 0;
+	}
+	.call-content {
+		text-align: center;
+	}
+
+}
+
+
+/* small mobile(xs) :320px. */
+@media (max-width: 767.99px) {
+	.header-top-left {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	.social-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.logo {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.menu-area nav ul li {
+		margin-left: 11px;
+	}
+	.menu-area nav ul li a {
+		font-size: 14px;
+	}
+	.white-bg {
+		padding: 10px 0;
+	}
+	.slider-content {
+		margin-top: 0;
+		padding: 100px 0;
+	}
+	.slider-content h2 {
+		font-size: 2rem;
+	}
+	.slider-content p {
+		font-size: 16px;
+	}
+	.single-slider {
+		min-height: 400px;
+	}
+	.slider-content a {
+		font-size: 16px;
+		padding: 10px 27px;
+	}
+	.slider-active .slick-dots {
+		bottom: 25px;
+	}
+	.section-title h2 {
+		font-size: 2rem;
+	}
+	.icon-area {
+		padding: 60px 0;
+	}
+	.welcome-content span p {
+		margin-bottom: 10px;
+		padding-right: 0;
+	}
+	.welcome-content h5 {
+		font-size: 1.5rem;
+		margin-bottom: 20px;
+	}
+	.welcome-content {
+		margin-bottom: 30px;
+	}
+	.welcome-img img {
+		margin-bottom: 30px;
+	}
+	.welcome-second-img img{
+		margin-bottom: 30px;
+	}
+	.hello-content {
+		margin-left: 0;
+	}
+	.welcome-area {
+		padding-bottom: 50px;
+	}
+	.testimonial-area {
+		min-height: 400px;
+		background-position: right;
+	}
+	.testimonial-content {
+		margin-top: 0;
+		padding-top: 80px;
+	}
+	.test-icon {
+		top: 60px;
+	}
+	.progress-content h3 {
+		font-size: 1.7rem;
+		margin-bottom: 15px;
+	}
+	.progress-wrapper {
+		margin-bottom: 50px;
+	}
+	.progress-area {
+		padding-top: 50px;
+		padding-bottom: 60px;
+	}
+	.section-title p {
+		margin-top: 35px;
+	}
+	.section-title {
+		margin-bottom: 40px;
+	}
+	.appointment-image img {
+		width: 100%;
+	}
+	.footer-logo {
+		margin-bottom: 15px;
+	}
+	.footer-menu {
+		margin-left: 100px;
+	}
+	.footer-info {
+		margin-left: 0;
+	}
+	.footer-wrapper {
+		margin-bottom: 40px;
+	}
+	.footer-bg {
+		padding: 50px 0;
+	}
+	.menu-area {
+		margin-bottom: 20px;
+	}
+	.copyright-area {
+		padding: 10px 0;
+	}
+	#scrollUp {
+		right: 20px;
+		bottom: 20px;
+	}
+	.single-post {
+		margin-bottom: 50px;
+	}
+	.about-2-content {
+		padding: 0;
+	}
+	.sm-sapcing {
+		padding-bottom: 0;
+	}
+	.quality-section h2 {
+		line-height: 1.5;
+	}
+	.group-wrapper {
+		padding: 0;
+		margin-bottom: 90px;
+	}
+	.group-area {
+		padding-bottom: 0px;
+	}
+	.supervisor-content {
+		padding-left: 0;
+	}
+	.res-work {
+		margin-top: 30px;
+	}
+	.work-btn a.work {
+		font-size: 16px;
+	}
+	.call-content {
+		text-align: center;
+	}
+}
+/* Large Mobile(sm) :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767.99px) {
+
+	.logo {
+		text-align: center;
+	}
+	.menu-area {
+		margin-top: 30px;
+	}
+	.slider-content h2 {
+		font-size: 2.5rem;
+	}
+	.slider-content p {
+		font-size: 16px;
+	}
+	.slider-content a {
+		font-size: 17px;
+		padding: 11px 35px;
+	}
+	.single-slider {
+		min-height: 490px;
+	}
+	.section-title h2 {
+		font-size: 2.1rem;
+	}
+	.welcome-content h5 {
+		margin-bottom: 20px;
+	}
+	.welcome-content span p {
+		margin-bottom: 10px;
+		padding-right: 0;
+	}
+	.welcome-content h5 {
+		font-size: 1.7rem;
+	}
+	.welcome-second-img img{
+		margin-bottom:0;
+	}
+	.welcome-content {
+		margin-bottom: 30px;
+	}
+	.hello-content {
+		margin: 30px 0;
+	}
+	.testimonial-area {
+		background-position: right center;
+	}
+	.appointment-image img {
+		width: 100%;
+	}
+	.footer-info {
+		margin-left: 0;
+	}
+	.footer-menu {
+		margin-left: 65px;
+	}
+	.footer-logo {
+		margin-bottom: 10px;
+	}
+	.footer-wrapper {
+		margin-bottom: 40px;
+	}
+	.copyright-bg {
+		padding: 10px 0;
+	}
+	.menu-area nav ul li a {
+		font-size: 16px;
+	}
+	.menu-area nav ul li {
+		margin-left: 27px;
+	}
+	.menu-area {
+		margin-bottom: 30px;
+	}
+	.icon-content h5 {
+		line-height: 1.5;
+	}
+	.post-wrapper {
+		margin-top: 30px;
+	}
+	.customize-line-height {
+		padding: 0;
+	}
+	.customize-line-height a h3 {
+		font-size: 20px;
+	}
+	.group-wrapper {
+		padding: 0 20px;
+		margin-bottom: 90px;
+	}
+	.group-area {
+		padding-bottom: 0px;
+	}
+	.supervisor-content {
+		padding-left: 0;
+	}
+	.work-content {
+		padding: 0;
+	}
+	.work-btn a.work {
+		font-size: 16px;
+	}
+	.res-work {
+		margin-top: 0;
+	}
+	.call-content {
+		text-align: center;
+	}
+}
